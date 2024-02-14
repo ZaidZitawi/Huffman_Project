@@ -15,3 +15,8 @@ This project implements Huffman coding for file compression and decompression. I
 - Displays the header containing the Huffman code mappings.
 - Reads the compressed file, decodes it, and outputs the decompressed file.
 - Ensures that the decompressed file matches the original file.
+
+
+## Quick Sight:
+
+![huff](https://github.com/ZaidZitawi/Huffman_Project/assets/111902956/2f73a10c-38b3-49df-bed7-7b2b34d0d15e)
