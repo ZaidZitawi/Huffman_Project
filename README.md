@@ -19,4 +19,9 @@ This project implements Huffman coding for file compression and decompression. I
 
 ## Quick Sight:
 
-![huff](https://github.com/ZaidZitawi/Huffman_Project/assets/111902956/2f73a10c-38b3-49df-bed7-7b2b34d0d15e)
+
+
+<p align="center">
+  <img src="https://github.com/ZaidZitawi/Huffman_Project/assets/111902956/2f73a10c-38b3-49df-bed7-7b2b34d0d15e" alt="Reading Data Option" width="800" style="border: 2px solid black; box-shadow: 2px 2px 5px grey;">
+</p>
+
